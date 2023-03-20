@@ -1,0 +1,28 @@
+20/Mar/2023:20:08:16 046 [Calculator.java] [INFO] Calculator [SQRT] - 64.0
+20/Mar/2023:20:08:16 050 [Calculator.java] [INFO] Calculator [RESULT - SQRT] - 8.0
+20/Mar/2023:20:08:16 050 [Calculator.java] [INFO] Calculator [FACTORIAL] - 64
+20/Mar/2023:20:08:16 050 [Calculator.java] [INFO] Calculator [RESULT - FACTORIAL] - 0
+20/Mar/2023:20:08:16 051 [Calculator.java] [INFO] Calculator [LOG] - 64.0
+20/Mar/2023:20:08:16 051 [Calculator.java] [INFO] Calculator [RESULT - LOG] - 4.158883
+20/Mar/2023:20:08:16 052 [Calculator.java] [INFO] Calculator [POWER] - 64.0, 0.0
+20/Mar/2023:20:08:16 052 [Calculator.java] [INFO] Calculator [RESULT - POWER] - 1.0
+20/Mar/2023:20:08:16 053 [Calculator.java] [ERROR] Calculator [ERROR] - cannot select this option
+20/Mar/2023:20:09:53 893 [Calculator.java] [INFO] Calculator [SQRT] - 64.0
+20/Mar/2023:20:09:53 897 [Calculator.java] [INFO] Calculator [RESULT - SQRT] - 8.0
+20/Mar/2023:20:31:59 913 [Calculator.java] [INFO] Calculator [FACTORIAL] - 3
+20/Mar/2023:20:31:59 919 [Calculator.java] [INFO] Calculator [RESULT - FACTORIAL] - 6
+20/Mar/2023:20:36:48 443 [Calculator.java] [ERROR] Calculator [ERROR - SQRT] - square root function is given -ve number
+20/Mar/2023:20:36:48 448 [Calculator.java] [INFO] Calculator [SQRT] - 25.0
+20/Mar/2023:20:36:48 449 [Calculator.java] [INFO] Calculator [RESULT - SQRT] - 5.0
+20/Mar/2023:20:36:48 450 [Calculator.java] [INFO] Calculator [POWER] - 2.0, 3.0
+20/Mar/2023:20:36:48 451 [Calculator.java] [INFO] Calculator [RESULT - POWER] - 8.0
+20/Mar/2023:20:36:48 451 [Calculator.java] [INFO] Calculator [POWER] - -2.0, 3.0
+20/Mar/2023:20:36:48 452 [Calculator.java] [INFO] Calculator [RESULT - POWER] - -8.0
+20/Mar/2023:20:36:48 452 [Calculator.java] [INFO] Calculator [POWER] - -0.5, -3.0
+20/Mar/2023:20:36:48 452 [Calculator.java] [INFO] Calculator [RESULT - POWER] - -8.0
+20/Mar/2023:20:36:48 453 [Calculator.java] [ERROR] Calculator [ERROR - FACTORIAL] - factorial function does not work with -ve number
+20/Mar/2023:20:36:48 454 [Calculator.java] [INFO] Calculator [FACTORIAL] - 5
+20/Mar/2023:20:36:48 454 [Calculator.java] [INFO] Calculator [RESULT - FACTORIAL] - 120
+20/Mar/2023:20:36:48 455 [Calculator.java] [ERROR] Calculator [ERROR - LOG] - natural log function does not work with -ve number
+20/Mar/2023:20:36:48 456 [Calculator.java] [INFO] Calculator [LOG] - 10.0
+20/Mar/2023:20:36:48 456 [Calculator.java] [INFO] Calculator [RESULT - LOG] - 2.3025851
